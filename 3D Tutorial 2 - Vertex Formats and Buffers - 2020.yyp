@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "3bffe29d-a3c0-48f2-a5ca-0d78edff73ea",
+            "Value": {
+                "id": "703822e2-237d-4d80-b268-a730d51b1dd6",
+                "resourcePath": "scripts\\vertex_add_point\\vertex_add_point.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3f6a99c1-09cf-4431-8967-8947c11b1432",
             "Value": {
                 "id": "5031cad2-a674-4b4a-b72f-5d7b6cfdb898",
@@ -216,7 +224,7 @@
         }
     ],
     "script_order": [
-        
+        "3bffe29d-a3c0-48f2-a5ca-0d78edff73ea"
     ],
     "tutorial": ""
 }
