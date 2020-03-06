@@ -22,6 +22,7 @@ var vtex = argument8;
 var color = argument9;
 var alpha = argument10;
 
+// Collapse four function calls into a single one
 vertex_position_3d(vbuffer, xx, yy, zz);
 vertex_normal(vbuffer, nx, ny, nz);
 vertex_texcoord(vbuffer, utex, vtex);
